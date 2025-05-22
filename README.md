@@ -1,7 +1,7 @@
-<h1 align="center">Eae, tudo bão? 👋</h1>
+<h1 align="center"> Olá 👋</h1>
 
 <p align="center">
-  Sou um <b>Front-end Developer</b> apaixonado por tecnologia e design, com experiência na <b>Pin6</b> e <b>Cupcode</b> - Agência de Marketing Digital.
+  Sou um <b>desenvolvedor Full Stack</b>, apaixonado por tecnologia e design.
 </p>
 
 ---
@@ -16,10 +16,10 @@
 
 ## 🌐 Conecte-se comigo
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559999999999)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](iago.silva6969@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-bruno-aa1630355/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584986397297)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iagobrunodev/)
 
 ---
 
@@ -42,7 +42,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iago193&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=iago193&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=radical)
 
 ---
 
