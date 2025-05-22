@@ -2,7 +2,6 @@
 
 <p align="center">
   Sou um <b>Desenvolvedor Full Stack</b> apaixonado por tecnologia e design.<br>
-  Atualmente trabalhando com <b>React, Node.js, Next.js, PHP e MySQL</b>.
 </p>
 
 ---
