@@ -37,14 +37,6 @@ I’m a **Full Stack Developer** passionate about technology and design, with ha
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=radical)
 
----
-
-## 🧑‍💻 Experience Highlight
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91540816/166914382-cf07f3a2-2f32-44a2-a3d4-b6f6e8f1b2d9.png" alt="Card Example" width="300px" style="border-radius: 12px"/>
-</p>
-
 > *3.5K+ articles read, focused on WebDev, JavaScript, Open Source, DevTools.*
 
 ---
