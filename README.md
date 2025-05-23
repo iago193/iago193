@@ -1,64 +1,55 @@
-<h1 align="center">👋 Hello and Welcome!</h1>
+# Hey, how's it going? 👋
 
-<p align="center">
-  I'm a passionate <strong>Full Stack Developer</strong> who thrives on building robust, scalable, and visually appealing applications.
-</p>
+I’m a **Full Stack Developer** passionate about technology and design, with hands-on experience building functional and scalable web applications.
 
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
-</p>
+- 💻 Skills in **React, Next.js, Node.js, PHP, MySQL**
+- ☁️ Working knowledge of **AWS EC2**
+- 🧠 Always learning and exploring new technologies
 
 ---
 
-## 🚀 About Me
+## 📬 Let's Connect
 
-- 💼 Currently working with **React, Node.js, Next.js, PHP, and MySQL**
-- 🎯 Focused on delivering clean, efficient, and maintainable code
-- 📘 Constantly learning and exploring new technologies to stay ahead
-- 🧠 Strong believer in continuous improvement and lifelong learning
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:iago.silva6969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/iago-bruno-aa1630355/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/5584986397297"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.instagram.com/iagobrunodev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iago.silva6969@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-bruno-aa1630355/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584986397297)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iagobrunodev/)
 
 ---
 
-## 💻 Tech Stack
+## 🧰 My Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 GitHub Insights
+## 📈 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iago193&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iago193&layout=compact&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=radical)
+
+---
+
+## 🧑‍💻 Experience Highlight
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iago193&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago193&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://user-images.githubusercontent.com/91540816/166914382-cf07f3a2-2f32-44a2-a3d4-b6f6e8f1b2d9.png" alt="Card Example" width="300px" style="border-radius: 12px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=radical" alt="GitHub Activity Graph"/>
-</p>
+> *3.5K+ articles read, focused on WebDev, JavaScript, Open Source, DevTools.*
 
 ---
 
 <p align="center">
-  <strong>Thanks for stopping by! 🚀</strong><br>
-  <em>Let’s build something amazing together.</em>
+  <b>Thanks for stopping by! 🚀</b><br>
+  <i>Let’s build something great together.</i>
 </p>
