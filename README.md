@@ -1,4 +1,4 @@
-# Hey, how's it going? 👋
+# Olá, como vai? 👋
 
 I’m a **Full Stack Developer** passionate about technology and design, with hands-on experience building functional and scalable web applications.
 
