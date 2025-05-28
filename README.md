@@ -7,7 +7,7 @@ I’m a **Full Stack Developer** passionate about technology and design, with ha
 
 ---
 
-## Contato
+## Contato:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iago.silva6969@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-bruno-aa1630355/)
