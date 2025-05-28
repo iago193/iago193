@@ -2,7 +2,7 @@
 
 I’m a **Full Stack Developer** passionate about technology and design, with hands-on experience building functional and scalable web applications.
 
-- Skills in **React, Next.js, Node.js, PHP, MySQL**
+- Skills in **Node.js, PHP, SQL**
 - Always learning and exploring new technologies
 
 ---
