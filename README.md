@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor Full Stack apaixonado por tecnologia e design, com experiência prática na criação de aplicativos web funcionais e escaláveis.
 
-- Skills in ** Node.js | React.js | NestJS | Next.js**
+• Habilidades em ** Node.js, React.js, NestJS, Next.js, Express, MySQL **
 
 ---
 
