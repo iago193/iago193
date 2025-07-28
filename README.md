@@ -10,7 +10,6 @@
 - 🚀 Focado em projetos com **JavaScript, Node.js e React**
 - 💡 Atualmente estudando **NestJS** e **Next.js**
 - 🛠️ Gosto de trabalhar com sistemas completos: Front + Back + Banco de Dados
-- 🌍 Baseado no Brasil
 - 👨‍💻 Em busca de oportunidades e parcerias em desenvolvimento web
 
 ---
