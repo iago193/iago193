@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, como vai? Eu sou o Iago Bruno!</h1>
 
-<h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&width=700&lines=%F0%9F%91%8B+Oi%2C+sou+Desenvolvedor+Fullstack!)](https://git.io/typing-svg)
-</h1>
+<p align="center">
+  Desenvolvedor Full Stack apaixonado por tecnologia e design, com experiência prática na criação de aplicativos web funcionais e escaláveis.
+</p>
 
 ### 🧑‍💻 Sobre mim
 
@@ -36,12 +36,16 @@
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iago193&theme=react&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago193&theme=react&show_icons=true&hide_border=true&layout=compact" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iago193&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago193&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=radical" alt="Activity Graph"/>
+</p>
 
 ---
 
