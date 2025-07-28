@@ -41,7 +41,7 @@
 <h2 align="center">📫 Contato</h2>
 
 <div align="center">
-  📧 Email: <a href="iago.silva6969@gmail.com">seuemail@gmail.com</a>
+  📧 Email: <a href="iago.silva6969@gmail.com">iago.silva6969@gmail.com</a>
 
   <br><br>
 
@@ -49,12 +49,5 @@
   [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/iago193)
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iago193/iago193/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iago193/iago193/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iago193/iago193/output/pacman-contribution-graph.svg">
-</picture>
 
 
