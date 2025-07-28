@@ -41,7 +41,7 @@
 <h2 align="center">📫 Contato</h2>
 
 <div align="center">
-  📧 **Email: <a href="mailto:seuemail@gmail.com">seuemail@gmail.com</a>**
+  📧 Email: <a href="iago.silva6969@gmail.com">seuemail@gmail.com</a>
 
   <br><br>
 
