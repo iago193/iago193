@@ -1,30 +1,30 @@
-<h1 align="center">👋 Olá, como vai? Eu sou o Iago Bruno!</h1>
+<h1 align="center">👋 Olá, tudo bem? Eu sou o Iago Bruno!</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack apaixonado por tecnologia e design, com experiência prática na criação de aplicativos web funcionais e escaláveis.
+  Desenvolvedor Full Stack com experiência prática no desenvolvimento de <strong>aplicações web modernas, escaláveis e de alta performance</strong>.
 </p>
 
-### 🧑‍💻 Sobre mim
+---
 
-- 💼 Desenvolvedor Fullstack
-- 🚀 Focado em projetos com **TypeScript, JavaScript, Node.js e React**
-- 🛠️ Gosto de trabalhar com sistemas completos: Front + Back + Banco de Dados
-- 👨‍💻 Em busca de oportunidades e parcerias
+### 🧑‍💻 Sobre mim  
+
+- 💼 Desenvolvedor **Full Stack** com foco em **TypeScript, JavaScript, Node.js e React**  
+- 🛠️ Experiência em aplicações completas: **Front-end, Back-end e Banco de Dados**  
+- 🚀 Já atuei em projetos que vão de **sistemas internos de gestão** a **plataformas integradas com MySQL e APIs**  
+- 📚 Em constante evolução, estudando **boas práticas, padrões de projeto e arquiteturas modernas**  
+- 🤝 Aberto a colaborações e novas oportunidades desafiadoras  
 
 ---
 
 <h2 align="center">🚀 Skills & Ferramentas</h2>
 
-<br>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,mongodb,git,github,docker,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,php,laravel,mysql,mongodb,git,github,docker,graphql" />
 </div>
-
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iago193&show_icons=true&theme=radical"/>
@@ -40,7 +40,7 @@
 <h2 align="center">📫 Contato</h2>
 
 <div align="center">
-  📧 Email: <a href="iago.silva6969@gmail.com">iago.silva6969@gmail.com</a>
+  📧 Email: <a href="mailto:iago.silva6969@gmail.com">iago.silva6969@gmail.com</a>
 
   <br><br>
   
@@ -48,4 +48,3 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/iago193)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/84991454957) 
 </div>
-
