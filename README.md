@@ -19,7 +19,7 @@
 <h2 align="center">🚀 Skills & Ferramentas</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,php,laravel,mysql,mongodb,git,github,docker,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,mysql,mongodb,git,github,docker,graphql" />
 </div>
 
 ---
