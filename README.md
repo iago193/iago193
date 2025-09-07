@@ -7,7 +7,7 @@
 ### 🧑‍💻 Sobre mim
 
 - 💼 Desenvolvedor Fullstack
-- 🚀 Focado em projetos com **JavaScript, Node.js e React**
+- 🚀 Focado em projetos com **TypeScript, JavaScript, Node.js e React**
 - 🛠️ Gosto de trabalhar com sistemas completos: Front + Back + Banco de Dados
 - 👨‍💻 Em busca de oportunidades e parcerias
 
