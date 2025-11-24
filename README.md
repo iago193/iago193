@@ -27,6 +27,10 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago193&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=radical" alt="Activity Graph"/>
 </p>
 
