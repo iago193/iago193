@@ -28,11 +28,12 @@
 
 ## 📈 GitHub Stats  
 
-  <!-- 🔥 Embaixo -->
+<div align="center">
   <br/><br/>
   <img height="180em" 
     src="https://streak-stats.demolab.com?user=iago193&theme=tokyonight&hide_border=true"
   />
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=react-dark&area=true&hide_border=true" />
