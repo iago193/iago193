@@ -1,25 +1,27 @@
-<h1 align="center">👋 Olá, tudo bem? Eu sou o Iago Bruno!</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=32&duration=3200&pause=900&color=00E7FF&center=true&vCenter=true&width=650&lines=👋+Olá%2C+tudo+bem%3F;Eu+sou+o+Iago+Bruno!;Desenvolvedor+Full+Stack+🚀" />
+</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack com experiência prática no desenvolvimento de <strong>aplicações web modernas, escaláveis e de alta performance</strong>.
+  Desenvolvedor Full Stack focado em criar <strong>aplicações modernas, escaláveis e de alta performance</strong>.
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim  
+## 🧑‍💻 Sobre mim  
 
-- 💼 Desenvolvedor **Full Stack** com foco em **TypeScript, JavaScript, Node.js e React**  
-- 🛠️ Experiência em aplicações completas: **Front-end, Back-end e Banco de Dados**  
-- 🚀 Já atuei em projetos que vão de **sistemas internos de gestão** a **plataformas integradas com MySQL e APIs**  
-- 📚 Em constante evolução, estudando **boas práticas, padrões de projeto e arquiteturas modernas**  
-- 🤝 Aberto a colaborações e novas oportunidades desafiadoras  
+- 💼 Desenvolvedor **Full Stack** especializado em **TypeScript, JavaScript, Node.js e React**
+- ⚙️ Experiência com **Front-end, Back-end, APIs REST, MySQL e MongoDB**
+- 🚀 Já trabalhei em sistemas reais: **gestão, dashboards, integrações e aplicações corporativas**
+- 📚 Sempre estudando **boas práticas, padrões de projeto e arquitetura moderna**
+- 🤝 Aberto a parcerias, networking e novos desafios
 
 ---
 
-<h2 align="center">🚀 Skills & Ferramentas</h2>
+## 🚀 Skills & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,mysql,mongodb,git,github,docker,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,mysql,mongodb,git,github,docker,linux,figma" />
 </div>
 
 ---
@@ -27,23 +29,26 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago193&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago193&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=radical" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=radical" />
 </p>
 
 ---
 
-<h2 align="center">📫 Contato</h2>
+## 📫 Contato  
 
 <div align="center">
-  📧 Email: <a href="mailto:iago.silva6969@gmail.com">iago.silva6969@gmail.com</a>
 
-  <br><br>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iago-bruno-aa1630355/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/iago193)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/84991454957) 
+📧 Email:  
+<a href="mailto:iago.silva6969@gmail.com">iago.silva6969@gmail.com</a>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iago-bruno-aa1630355/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/iago193)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/84991454957)
+
 </div>
