@@ -28,9 +28,11 @@
 
 ## 📈 GitHub Stats  
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago193&layout=compact&theme=radical" />
-</p>
+  <!-- 🔥 Embaixo -->
+  <br/><br/>
+  <img height="180em" 
+    src="https://streak-stats.demolab.com?user=iago193&theme=tokyonight&hide_border=true"
+  />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=react-dark&area=true&hide_border=true" />
