@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
