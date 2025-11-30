@@ -21,7 +21,7 @@
 ## 🚀 Skills & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,mysql,mongodb,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,mysql,postgres,mongodb,git,github,docker,linux" />
 </div>
 
 ---
