@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=32&duration=3200&pause=900&color=00E7FF&center=true&vCenter=true&width=650&lines=👋+Olá%2C+tudo+bem%3F;Eu+sou+o+Iago+Bruno!;Desenvolvedor+Full+Stack+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=32&duration=3200&pause=900&color=00E7FF&center=true&vCenter=true&width=650&lines=👋+Olá%2C+tudo+bem%3F;Eu+sou+o+Iago+Bruno!;Desenvolvedor+Full+Stack+🚀" />
 </h1>
 
 <p align="center">
@@ -29,11 +29,13 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago193&layout=compact&theme=radical" />
+  <!-- 🔥 Linguagens mais usadas (100% funcional — mirror alternativo) -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iago193&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=radical" />
+  <!-- 🔥 Activity Graph funcional -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
