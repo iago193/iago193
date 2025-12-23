@@ -31,9 +31,8 @@
 
 <div align="center">
   <img height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=iago193&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=iago193&theme=tokyonight&hide_border=true"
   />
-
 </div>
 
 <br/>
