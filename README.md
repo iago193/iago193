@@ -50,7 +50,7 @@
 📧 **Email**  
 <a href="mailto:iago.silva6969@gmail.com">iago.silva6969@gmail.com</a>
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-bruno-aa1630355/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/iago193)  
