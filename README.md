@@ -15,7 +15,7 @@
 - 🚀 Experiência com **APIs REST, Dashboards, Sistemas de Gestão e Integrações**
 - 🗄️ Bancos de dados: **MySQL, PostgreSQL e MongoDB**
 - 📚 Sempre estudando **boas práticas, padrões de projeto e arquitetura moderna**
-- 🤝 Aberto a **networking, freelas e oportunidades remotas**
+- 🤝 Aberto a **networking, freelas e oportunidades de emprego**
 
 ---
 
