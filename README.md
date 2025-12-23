@@ -33,11 +33,16 @@
   <img height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=iago193&show_icons=true&theme=tokyonight&hide_border=true"
   />
-
+  <img height="180em" 
+    src="https://streak-stats.demolab.com?user=iago193&theme=tokyonight&hide_border=true"
+  />
 </div>
+
 <br/>
 
- <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=react-dark&area=true&hide_border=true" /> </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=react-dark&area=true&hide_border=true" />
+</div>
 
 ---
 
