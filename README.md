@@ -34,11 +34,10 @@
     src="https://github-readme-stats.vercel.app/api?username=iago193&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
-  <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=react-dark&area=true&hide_border=true" /> </p>
-
 </div>
-
 <br/>
+
+ <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iago193&theme=react-dark&area=true&hide_border=true" /> </p>
 
 ---
 
