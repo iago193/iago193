@@ -20,7 +20,7 @@ Sou um desenvolvedor **Full Stack**, focado no ecossistema **JavaScript/TypeScri
 - ⚛️ **Frontend:** Criação de interfaces modernas com **React, Next.js e TypeScript**.
 - 🎨 **UI:** Estilização com **Tailwind CSS** e foco em boa experiência do usuário.
 - ⚙️ **Sistemas:** Dashboards, sistemas de gestão e integrações.
-- 🌐 **GitHub:** https://github.com/iago193
+- 🌐 **Portfólio:** [iagobruno.kesug.com](https://iagobruno.kesug.com/)
 
 ---
 
