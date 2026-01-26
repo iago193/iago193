@@ -85,12 +85,12 @@ const iagoBruno = {
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     height="170"
     src="https://streak-stats.demolab.com?user=iago193&theme=github-dark&hide_border=true"
   />
-</p>
+</p> -->
 
 <hr/>
 
