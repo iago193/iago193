@@ -6,9 +6,9 @@
 <!-- BANNER TOPO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Iago%20Bruno&fontSize=56&fontColor=FFFFFF&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack%20%7C%20JavaScript%20%26%20TypeScript&descSize=18&descAlignY=65&color=0:0B1220,50:9B111E,100:FF3B30"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Filipi%20Moraes&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
   />
-</p
+</p>
 
 <!-- TEXTO ANIMADO -->
 <p align="center">
