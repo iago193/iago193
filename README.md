@@ -101,7 +101,7 @@ const iagoBruno = {
   <img src="https://skillicons.dev/icons?i=js,ts" />
 
   <h4>🧱 Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,c#" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 
   <h4>🎨 Frontend</h4>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
