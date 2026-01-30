@@ -49,7 +49,7 @@
 <ul>
   <li><b>Atuação:</b> Desenvolvedor <b>Full Stack</b> com foco em <b>JavaScript e TypeScript</b>.</li>
   <li><b>Perfil:</b> Construo aplicações web completas, do backend ao frontend, com arquitetura limpa e escalável.</li>
-  <li><b>Backend:</b> APIs REST com <b>Node.js</b>, <b>NestJS</b>, autenticação, regras de negócio e integrações.</li>
+  <li><b>Backend:</b> APIs REST com <b>Node.js</b>, <b>NestJS</b>, <b>Express</b>, autenticação, regras de negócio e integrações.</li>
   <li><b>Frontend:</b> Interfaces modernas com <b>React</b> e <b>Next.js</b>, foco em performance e UX.</li>
   <li><b>UI:</b> Estilização com <b>Tailwind CSS</b> e componentes reutilizáveis.</li>
   <li><b>Bancos:</b> PostgreSQL, MySQL e MongoDB.</li>
