@@ -76,12 +76,10 @@ const iagoBruno = {
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=iago193&show_icons=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api?username=Iago193&show_icons=true&count_private=true"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=iago193&layout=compact&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago193&layout=compact"
   />
 </p>
 
