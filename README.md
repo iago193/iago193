@@ -72,7 +72,7 @@ const iagoBruno = {
 
 <hr/>
 
-<h2>📊 Visão geral do GitHub</h2>
+<!-- <h2>📊 Visão geral do GitHub</h2>
 
 <p align="center">
   <img
@@ -83,7 +83,7 @@ const iagoBruno = {
   />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img
     height="170"
     src="https://streak-stats.demolab.com?user=iago193&theme=github-dark&hide_border=true"
