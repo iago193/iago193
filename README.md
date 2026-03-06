@@ -95,20 +95,25 @@ const iagoBruno = {
 <h2>🧩 Stack tecnológica</h2>
 
 <div align="center">
-  <h4>💻 Linguagens</h4>
-  <img src="https://skillicons.dev/icons?i=js,ts" />
 
-  <h4>🧱 Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+<h3>💻 Linguagens</h3>
+<img src="https://skillicons.dev/icons?i=js,ts" />
 
-  <h4>🎨 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
-  <h4>🗄️ Banco de dados</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<h3>🧱 Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 
-  <h4>⚙️ DevOps & Ferramentas</h4>
-  <img src="https://skillicons.dev/icons?i=git,docker,github" />
+<h3>🗄️ Banco de Dados</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+<h3>⚙️ DevOps & Ferramentas</h3>
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+<h3>🎨 Design</h3>
+<img src="https://skillicons.dev/icons?i=figma,ps" />
+
 </div>
 
 <hr/>
