@@ -97,22 +97,40 @@ const iagoBruno = {
 <div align="center">
 
 <h3>💻 Linguagens</h3>
-<img src="https://skillicons.dev/icons?i=js,ts" />
+
+<img src="https://img.shields.io/badge/JavaScript-9B111E?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-9B111E?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+
+<img src="https://img.shields.io/badge/React-9B111E?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-9B111E?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-9B111E?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-9B111E?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-9B111E?style=for-the-badge&logo=css3&logoColor=white" />
 
 <h3>🧱 Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs" />
+
+<img src="https://img.shields.io/badge/Node.js-9B111E?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-9B111E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-9B111E?style=for-the-badge&logo=express&logoColor=white" />
 
 <h3>🗄️ Banco de Dados</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+<img src="https://img.shields.io/badge/MongoDB-9B111E?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-9B111E?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-9B111E?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <h3>⚙️ DevOps & Ferramentas</h3>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+<img src="https://img.shields.io/badge/Git-9B111E?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-9B111E?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-9B111E?style=for-the-badge&logo=docker&logoColor=white" />
 
 <h3>🎨 Design</h3>
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+
+<img src="https://img.shields.io/badge/Figma-9B111E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-9B111E?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 
 </div>
 
