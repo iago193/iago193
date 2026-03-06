@@ -103,7 +103,7 @@ const iagoBruno = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
 <h3>🧱 Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs" />
 
 <h3>🗄️ Banco de Dados</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
@@ -112,7 +112,7 @@ const iagoBruno = {
 <img src="https://skillicons.dev/icons?i=git,github,docker" />
 
 <h3>🎨 Design</h3>
-<img src="https://skillicons.dev/icons?i=figma,ps" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
 
 </div>
 
