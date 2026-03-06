@@ -227,8 +227,13 @@ Modelo:
   <a href="https://www.linkedin.com/in/iago-bruno-aa1630355/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/iago193" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/5584991454957" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-9B111E?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
