@@ -33,6 +33,9 @@
   <a href="https://iagobruno.kesug.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+<a href="https://wa.me/5584991454957" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-9B111E?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 <!-- CONTADORES -->
