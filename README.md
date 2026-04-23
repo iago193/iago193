@@ -152,7 +152,7 @@ const iagoBruno = {
   <tr>
     <td><b>Frontend</b></td>
     <td align="center"><b>90%</b></td>
-    <td>React, Next.js, Tailwind, UX</td>
+    <td>React, React Native, Next.js, Tailwind, UX</td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
