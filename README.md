@@ -64,7 +64,7 @@ const iagoBruno = {
   cargo: "Desenvolvedor Full Stack",
   foco: [
     "Node.js e NestJS (APIs REST, autenticação, arquitetura)",
-    "React e Next.js (interfaces modernas e performáticas)",
+    "React, React Native e Next.js (interfaces modernas e performáticas)",
     "TypeScript como base do frontend e backend",
     "Integrações, dashboards e sistemas web"
   ],
