@@ -66,7 +66,7 @@ const iagoBruno = {
     "Node.js e NestJS (APIs REST, autenticação, arquitetura)",
     "React, React Native e Next.js (interfaces modernas e performáticas)",
     "TypeScript como base do frontend e backend",
-    "Integrações, dashboards e sistemas web"
+    "Desenvolvimento de integrações, apps mobile, dashboards e sistemas web"
   ],
   objetivo:
     "Criar soluções modernas, escaláveis e bem estruturadas, com foco em qualidade de código e experiência do usuário."
@@ -130,6 +130,7 @@ const iagoBruno = {
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
 <h3>🎨 Design</h3>
 
