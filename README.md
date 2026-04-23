@@ -14,7 +14,7 @@
 <!-- TEXTO ANIMADO -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transformando+ideias+em+aplica%C3%A7%C3%B5es+web+modernas%2C+escal%C3%A1veis+e+perform%C3%A1ticas."
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Transformando+ideias+em+sistemas+web%2C+apps+mobile+e+automa%C3%A7%C3%B5es+com+IA+modernas%2C+escal%C3%A1veis+e+perform%C3%A1ticas."
     alt="Texto animado"
   />
 </p>
