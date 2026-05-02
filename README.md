@@ -50,10 +50,10 @@
 <h2>🧠 Sobre mim</h2>
 
 <ul>
-  <li><b>Atuação:</b> Desenvolvedor <b>Full Stack</b> com foco em <b>JavaScript e TypeScript</b>.</li>
+  <li><b>Atuação:</b> Desenvolvedor <b>Full Stack</b></li>
   <li><b>Perfil:</b> Construo aplicações completas, do backend ao frontend, com arquitetura limpa e escalável.</li>
   <li><b>Backend:</b> APIs REST com <b>Node.js</b>, <b>NestJS</b>, <b>Express</b>, autenticação, regras de negócio e integrações.</li>
-  <li><b>Frontend:</b> Interfaces modernas com <b>React</b>, <b>React Native</b> e <b>Next.js</b>, foco em performance e UX.</li>
+  <li><b>Frontend:</b> Interfaces modernas com <b>React</b> e <b>Next.js</b>, foco em performance e UX.</li>
   <li><b>UI:</b> Estilização com <b>Tailwind CSS</b> e componentes reutilizáveis.</li>
   <li><b>Bancos:</b> PostgreSQL, MySQL e MongoDB.</li>
   <li><b>Local:</b> Brasil — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
@@ -64,9 +64,9 @@ const iagoBruno = {
   cargo: "Desenvolvedor Full Stack",
   foco: [
     "Node.js e NestJS (APIs REST, autenticação, arquitetura)",
-    "React, React Native e Next.js (interfaces modernas e performáticas)",
+    "React e Next.js (interfaces modernas e performáticas)",
     "TypeScript como base do frontend e backend",
-    "Desenvolvimento de integrações, apps mobile, dashboards e sistemas web"
+    "Desenvolvimento de integrações, dashboards e sistemas web"
   ],
   objetivo:
     "Criar soluções modernas, escaláveis e bem estruturadas, com foco em qualidade de código e experiência do usuário."
@@ -107,7 +107,6 @@ const iagoBruno = {
 <h3>🎨 Frontend</h3>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -152,7 +151,7 @@ const iagoBruno = {
   <tr>
     <td><b>Frontend</b></td>
     <td align="center"><b>90%</b></td>
-    <td>React, React Native, Next.js, Tailwind, UX</td>
+    <td>React, Next.js, Tailwind, UX</td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
