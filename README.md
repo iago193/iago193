@@ -10,11 +10,10 @@
   />
 </p>
 
-
 <!-- TEXTO ANIMADO -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Desenvolvimento+de+sistemas+web+modernos+e+escal%C3%A1veis;Automa%C3%A7%C3%B5es+inteligentes+com+IA+e+n8n;Integra%C3%A7%C3%B5es%2C+dashboards+e+solu%C3%A7%C3%B5es+sob+medida"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Desenvolvimento+de+sistemas+web+modernos+e+escal%C3%A1veis;Automa%C3%A7%C3%B5es+inteligentes+com+IA+e+n8n;Node.js%2C+C%23+.NET+e+arquiteturas+escal%C3%A1veis"
     alt="Texto animado"
   />
 </p>
@@ -33,7 +32,7 @@
   <a href="https://iagobruno.kesug.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-<a href="https://wa.me/5584991454957" target="_blank">
+  <a href="https://wa.me/5584991454957" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-9B111E?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -52,9 +51,9 @@
 <ul>
   <li><b>Atuação:</b> Desenvolvedor <b>Full Stack</b></li>
   <li><b>Perfil:</b> Construo aplicações completas, do backend ao frontend, com arquitetura limpa e escalável.</li>
-  <li><b>Backend:</b> APIs REST com <b>Node.js</b>, <b>NestJS</b>, <b>Express</b>, autenticação, regras de negócio e integrações.</li>
-  <li><b>Frontend:</b> Interfaces modernas com <b>React</b> e <b>Next.js</b>, foco em performance e UX.</li>
-  <li><b>UI:</b> Estilização com <b>Tailwind CSS</b> e componentes reutilizáveis.</li>
+  <li><b>Backend:</b> APIs REST com <b>Node.js</b>, <b>NestJS</b>, <b>Express</b> e <b>C# .NET</b>.</li>
+  <li><b>Frontend:</b> Interfaces modernas com <b>React</b> e <b>Next.js</b>.</li>
+  <li><b>UI:</b> Estilização com <b>Tailwind CSS</b>.</li>
   <li><b>Bancos:</b> PostgreSQL, MySQL e MongoDB.</li>
   <li><b>Local:</b> Brasil — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
 </ul>
@@ -62,36 +61,19 @@
 <pre>
 const iagoBruno = {
   cargo: "Desenvolvedor Full Stack",
+
   foco: [
-    "Node.js e NestJS (APIs REST, autenticação, arquitetura)",
-    "React e Next.js (interfaces modernas e performáticas)",
-    "TypeScript como base do frontend e backend",
-    "Desenvolvimento de integrações, dashboards e sistemas web"
+    "Node.js, NestJS e C# .NET",
+    "APIs REST e arquitetura escalável",
+    "React e Next.js",
+    "TypeScript e JavaScript",
+    "Integrações, dashboards e sistemas web"
   ],
+
   objetivo:
-    "Criar soluções modernas, escaláveis e bem estruturadas, com foco em qualidade de código e experiência do usuário."
+    "Criar soluções modernas, escaláveis e bem estruturadas."
 };
 </pre>
-
-<hr/>
-
-<!-- <h2>📊 Visão geral do GitHub</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Iago193&show_icons=true&count_private=true"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago193&layout=compact"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=iago193&theme=github-dark&hide_border=true"
-  />
-</p> -->
 
 <hr/>
 
@@ -103,6 +85,7 @@ const iagoBruno = {
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
 
 <h3>🎨 Frontend</h3>
 
@@ -117,6 +100,7 @@ const iagoBruno = {
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 <h3>🗄️ Banco de Dados</h3>
 
@@ -143,58 +127,35 @@ const iagoBruno = {
 <h2>📊 Distribuição de Expertise</h2>
 
 <table>
-  <tr>
-    <th align="left">Área</th>
-    <th align="center">Foco</th>
-    <th align="left">Destaque</th>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td align="center"><b>90%</b></td>
-    <td>React, Next.js, Tailwind, UX</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td align="center"><b>88%</b></td>
-    <td>Node.js, NestJS, APIs REST</td>
-  </tr>
-  <tr>
-    <td><b>Full Stack</b></td>
-    <td align="center"><b>85%</b></td>
-    <td>Integração frontend + backend</td>
-  </tr>
-  <tr>
-    <td><b>Bancos de Dados</b></td>
-    <td align="center"><b>80%</b></td>
-    <td>Modelagem, queries e performance</td>
-  </tr>
-</table>
+<tr>
+<th>Área</th>
+<th>Foco</th>
+<th>Destaque</th>
+</tr>
 
-<hr/>
+<tr>
+<td><b>Frontend</b></td>
+<td align="center"><b>90%</b></td>
+<td>React, Next.js, Tailwind</td>
+</tr>
 
-<h2>✨ Diferenciais</h2>
+<tr>
+<td><b>Backend</b></td>
+<td align="center"><b>90%</b></td>
+<td>Node.js, NestJS, C# .NET, APIs REST</td>
+</tr>
 
-<table>
-  <tr>
-    <th align="left">Característica</th>
-    <th align="left">Aplicação</th>
-  </tr>
-  <tr>
-    <td><b>Arquitetura limpa</b></td>
-    <td>Código organizado, escalável e fácil de manter</td>
-  </tr>
-  <tr>
-    <td><b>Foco em produto</b></td>
-    <td>Desenvolvimento pensando no usuário final</td>
-  </tr>
-  <tr>
-    <td><b>Comunicação clara</b></td>
-    <td>Boa interação com times e stakeholders</td>
-  </tr>
-  <tr>
-    <td><b>Evolução constante</b></td>
-    <td>Sempre estudando e aplicando boas práticas</td>
-  </tr>
+<tr>
+<td><b>Full Stack</b></td>
+<td align="center"><b>88%</b></td>
+<td>Integração completa frontend + backend</td>
+</tr>
+
+<tr>
+<td><b>Banco de Dados</b></td>
+<td align="center"><b>82%</b></td>
+<td>Modelagem e performance</td>
+</tr>
 </table>
 
 <hr/>
@@ -214,8 +175,8 @@ const iagoBruno = {
 <pre>
 Cargos:
 - Desenvolvedor Full Stack
+- Desenvolvedor Backend (.NET / Node.js)
 - Desenvolvedor Frontend
-- Desenvolvedor Backend
 
 Modelo:
 - Remoto
@@ -244,6 +205,6 @@ Modelo:
 <!-- BANNER RODAPÉ -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Código%20e%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Build%20with%20Code%20%26%20Purpose&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
   />
 </p>
