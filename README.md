@@ -203,8 +203,4 @@ Modelo:
 </p>
 
 <!-- BANNER RODAPÉ -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Build%20with%20Code%20%26%20Purpose&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
-  />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Código%20e%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30" /> </p>
