@@ -13,7 +13,7 @@
 <!-- TEXTO ANIMADO -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Desenvolvimento+de+sistemas+web+modernos+e+escal%C3%A1veis;Automa%C3%A7%C3%B5es+inteligentes+com+IA+e+n8n;Node.js%2C+Python+e+arquiteturas+escal%C3%A1veis"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Desenvolvimento+de+sistemas+web+modernos+e+escal%C3%A1veis;Automa%C3%A7%C3%B5es+inteligentes+com+IA+e+n8n;Node.js%2C+C%23+e+arquiteturas+escal%C3%A1veis"
     alt="Texto animado"
   />
 </p>
@@ -51,7 +51,7 @@
 <ul>
   <li><b>Atuação:</b> Desenvolvedor <b>Full Stack</b></li>
   <li><b>Perfil:</b> Construo aplicações completas, do backend ao frontend, com arquitetura limpa e escalável.</li>
-  <li><b>Backend:</b> APIs REST com <b>Node.js</b>, <b>Python</b>.</li>
+  <li><b>Backend:</b> APIs REST com <b>Node.js</b> e <b>C# .NET</b>.</li>
   <li><b>Frontend:</b> Interfaces modernas com <b>React</b> e <b>Next.js</b>.</li>
   <li><b>UI:</b> Estilização com <b>Tailwind CSS</b>.</li>
   <li><b>Bancos:</b> PostgreSQL, MySQL e MongoDB.</li>
@@ -63,10 +63,10 @@ const iagoBruno = {
   cargo: "Desenvolvedor Full Stack",
 
   foco: [
-    "Node.js, Python",
+    "Node.js, C# .NET",
     "APIs REST e arquitetura escalável",
     "React e Next.js",
-    "JavaScript",
+    "JavaScript / TypeScript",
     "Integrações, dashboards e sistemas web"
   ],
 
@@ -85,7 +85,7 @@ const iagoBruno = {
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 
 <h3>🎨 Frontend</h3>
 
@@ -98,15 +98,14 @@ const iagoBruno = {
 <h3>🧱 Backend</h3>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 <h3>🧩 Frameworks & Libs</h3>
 
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
 
 <h3>🗄️ Banco de Dados</h3>
 
@@ -148,7 +147,7 @@ const iagoBruno = {
 <tr>
 <td><b>Backend</b></td>
 <td align="center"><b>90%</b></td>
-<td>Node.js, Python, APIs REST</td>
+<td>Node.js, C# .NET, APIs REST</td>
 </tr>
 
 <tr>
@@ -181,7 +180,7 @@ const iagoBruno = {
 <pre>
 Cargos:
 - Desenvolvedor Full Stack
-- Desenvolvedor Backend (Python / Node.js)
+- Desenvolvedor Backend (C# .NET / Node.js)
 - Desenvolvedor Frontend
 
 Modelo:
