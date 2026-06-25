@@ -13,7 +13,7 @@
 <!-- TEXTO ANIMADO -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Desenvolvimento+de+sistemas+web+modernos+e+escal%C3%A1veis;Automa%C3%A7%C3%B5es+inteligentes+com+IA+e+n8n;Node.js%2C+C%23+.NET+e+arquiteturas+escal%C3%A1veis"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Desenvolvimento+de+sistemas+modernos+e+escal%C3%A1veis;Automa%C3%A7%C3%B5es+inteligentes+com+IA+e+n8n;Node.js%2C+C%23+.NET+e+arquiteturas+escal%C3%A1veis"
     alt="Texto animado"
   />
 </p>
